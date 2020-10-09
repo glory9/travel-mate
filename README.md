@@ -3,6 +3,8 @@ GitHub repository for our team project at the American Airlines BESMART hackatho
 
 ## Proposed Technologies
 - Figma for clickable prototype
+- Swift for mobile app
+- Node.js API
 - Google Maps
 - Mastercard for payments
 - Mongodb database
